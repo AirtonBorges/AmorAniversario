@@ -8,6 +8,7 @@
     "@splinetool/runtime": "^0.9.525"
   },
   "devDependencies": {
+    "@parcel/transformer-webmanifest": "^2.11.0",
     "buffer": "^6.0.3",
     "process": "^0.11.10"
   }
