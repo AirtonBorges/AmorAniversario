@@ -1,0 +1,14 @@
+{
+  "name": "julia-aniversario",
+  "version": "0.0.0",
+  "private": true,
+  "start": "node app.js",
+  "dependencies": {
+    "@parcel/core": "^2.10.3",
+    "@splinetool/runtime": "^0.9.525"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "process": "^0.11.10"
+  }
+}
