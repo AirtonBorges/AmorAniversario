@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"5y3Iv":[function(require,module,exports) {
+})({"3koHf":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -5173,6 +5173,6 @@ var PI = Object.freeze({
     KinematicCharacterController: pI
 });
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"kD5Ob"}]},["5y3Iv"], null, "parcelRequire05cf")
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"iGxv9"}]},["3koHf"], null, "parcelRequire05cf")
 
 //# sourceMappingURL=physics.e6712e0f.js.map

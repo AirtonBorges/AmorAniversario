@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"8Asox":[function(require,module,exports) {
+})({"6YNbO":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -10021,6 +10021,6 @@ var Mo = Object.freeze({
     loadSync: Io
 }), Ho = Mo;
 
-},{"9a9b5a57d9a64f22":"fCgem","@parcel/transformer-js/src/esmodule-helpers.js":"kD5Ob"}]},["8Asox"], null, "parcelRequire05cf")
+},{"9a9b5a57d9a64f22":"fCgem","@parcel/transformer-js/src/esmodule-helpers.js":"iGxv9"}]},["6YNbO"], null, "parcelRequire05cf")
 
 //# sourceMappingURL=opentype.fb7c6d9c.js.map
